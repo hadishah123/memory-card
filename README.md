@@ -24,6 +24,9 @@ An interactive memory-matching game built with **React 19** and **Vite**, focuse
 
 ---
 
+## 🖼️ Screenshots
+![Game Screenshot](public/screenshot.webp)
+
 ## ⚙️ Setup & Installation
 
 ### 1️⃣ Clone this repository
@@ -55,4 +58,4 @@ For major changes, please open an issue first to discuss what you’d like to ch
 
 ## 🪪 License
 
-MIT License © 2025 [Hadi Shah](https://github.com/hadishah123)
+MIT License © 2026 [Hadi Shah](https://github.com/hadishah123)
